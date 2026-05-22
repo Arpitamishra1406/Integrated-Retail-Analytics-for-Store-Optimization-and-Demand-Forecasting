@@ -105,12 +105,19 @@ Folder Structure
 
 Integrated-Retail-Analytics/
 │
+
 ├── data/
+
 ├── notebooks/
+
 ├── visualizations/
+
 ├── models/
+
 ├── reports/
+
 ├── README.md
+
 └── requirements.txt
 
 Conclusion
