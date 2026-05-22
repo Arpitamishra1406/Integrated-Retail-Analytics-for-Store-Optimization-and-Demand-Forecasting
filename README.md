@@ -103,21 +103,13 @@ Enhances customer satisfaction
 
 Folder Structure
 
-Integrated-Retail-Analytics/
-│
-
+Integrated-Retail-Analytics/|
 ├── data/
-
 ├── notebooks/
-
 ├── visualizations/
-
 ├── models/
-
 ├── reports/
-
 ├── README.md
-
 └── requirements.txt
 
 Conclusion
