@@ -41,6 +41,7 @@ Holiday information
 
 
 🛠️ Tools and Technologies
+
 Python
 Pandas
 NumPy
@@ -53,34 +54,41 @@ Jupyter Notebook / Google Colab
 🧪 Project Steps
 
 📊 Data Preprocessing
+
 Merged all datasets using Store and Date
 Handled missing values
 Created new columns like Year, Month, Week, and IsHoliday
 
 📈 Sales Trend Analysis
+
 Analyzed weekly and yearly sales trends
 Identified seasonal demand patterns
 Compared holiday and non-holiday sales
 
 🚨 Anomaly Detection
+
 Detected unusual sales spikes and outliers
 Observed the impact of holidays and markdowns
 
 🔮 Demand Forecasting
+
 Used Random Forest Regressor for prediction
 Predicted weekly sales using economic and markdown features
 
 🧩 Store Segmentation
+
 Applied K-Means Clustering to group stores
 Grouped stores based on sales and size
 
 
 🧾 Correlation Analysis
+
 Analyzed relationships between departments
 Identified cross-selling opportunities
 
 
 ✅ Results
+
 Successfully predicted weekly sales
 Identified seasonal sales behavior
 Grouped stores into different clusters
@@ -89,6 +97,7 @@ Generated useful business insights for retail optimization
 
 
 📝 Recommendations
+
 Plan inventory using forecasted sales
 Provide discounts during holiday seasons
 Run different marketing campaigns for different store groups
@@ -96,6 +105,7 @@ Use economic indicators while planning sales strategies
 
 
 📈 Business Impact
+
 Helps reduce overstock and understock problems
 Improves marketing performance
 Supports better business decisions
@@ -103,6 +113,8 @@ Enhances customer satisfaction
 
 
 📂 Folder Structure
+
+
 Integrated-Retail-Analytics/
 │
 ├── data/
