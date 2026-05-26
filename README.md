@@ -1,4 +1,4 @@
-Integrated Retail Analytics for Store Optimization and Demand Forecasting
+**Integrated Retail Analytics for Store Optimization and Demand Forecasting**
 
 Project Overview
 
